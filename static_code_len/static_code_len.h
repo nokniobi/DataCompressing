@@ -7,7 +7,6 @@
 #include <cstring>
 #include "dictionary.h"
 #include "../binary/bitset.h"
-#include "boost/dynamic_bitset/dynamic_bitset.hpp"
 
 
 #define claster 4096
